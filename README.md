@@ -1,1 +1,1 @@
-# shopping-list-array
+# shopping-list-array quick example
